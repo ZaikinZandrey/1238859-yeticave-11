@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Andrey Zaikin](https://up.htmlacademy.ru/php/11/user/1238859).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Подсекин](https://htmlacademy.ru/profile/id246748).
 
 ---
 
